@@ -66,8 +66,10 @@ hr.solid{
   font-size: small;
 }
 
-@media (min-width: 800px){
-  .navbar-expland-lg .navbar-toggler {
-    display: none !important;
+@media screen and (max-width: 768px) {
+  .about-me{
+    min-width:100% !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
   }
 }
