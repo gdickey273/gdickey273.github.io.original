@@ -26,7 +26,7 @@ p{
 
 .about-me{
   background-color: #D8DBE2;
-  width: 50%;
+  width: 700px;
   float: left;
 }
 
@@ -64,4 +64,10 @@ hr.solid{
 
 .footer p, i{
   font-size: small;
+}
+
+@media (min-width: 800px){
+  .navbar-expland-lg .navbar-toggler {
+    display: none !important;
+  }
 }
