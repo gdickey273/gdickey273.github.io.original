@@ -68,9 +68,9 @@ hr.solid{
 
 @media screen and (max-width: 768px) {
   .about-me{
-    min-width:100% !important;
-    margin-left: 10px !important;
-    margin-right: 10px !important;
+    min-width:96% !important;
+    margin-left: 2% !important;
+    margin-right: 2% !important;
   }
 }
 
@@ -78,7 +78,7 @@ hr.solid{
   .about-me img{
     min-width:100% !important;
     height: auto;
-    margin-left: 10px !important;
-    margin-right: 10px !important;
+    margin-left: 2% !important;
+    margin-right: 2% !important;
   }
 }
