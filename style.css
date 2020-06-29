@@ -76,7 +76,7 @@ hr.solid{
 
 @media screen and (max-width: 640px) {
   .about-me img{
-    min-width:100% !important;
+    min-width:96% !important;
     height: auto;
     margin-left: 2% !important;
     margin-right: 2% !important;
