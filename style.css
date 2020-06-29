@@ -51,11 +51,17 @@ hr.solid{
   height: 60px;
   line-height: 60px;
   background-color: #084C61;
-  border-top: 2px solid #FFA630; 
+  border-top: 4px solid #FFA630; 
 }
 
 .footer div{
   margin: auto;
   width: 150px;
   color: #fff !important;
+  margin-top: 15px;
+
+}
+
+.footer p, i{
+  font-size: small;
 }
