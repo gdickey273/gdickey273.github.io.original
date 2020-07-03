@@ -34,7 +34,7 @@ hr.solid{
 
 
 .about img{
-  width: 35%;
+  width: 33%;
   height: auto;
   float: left;
   border-radius: 50%;
@@ -82,12 +82,31 @@ hr.solid{
   font-size: small;
 }
 
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 640px){
+  .about img{
+    width: 75%;
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .about p{
+    clear: both;
+  }
+
+  .phone-center{
+    text-align: center;
+  }
+}
+/* @media screen and (max-width: 768px) {
   .about-me{
     min-width:96% !important;
     margin-left: 2% !important;
     margin-right: 2% !important;
   }
+
+  
 }
 
 @media screen and (max-width: 640px) {
@@ -97,4 +116,4 @@ hr.solid{
     margin-left: 2% !important;
     margin-right: 2% !important;
   }
-}
+} */
