@@ -28,24 +28,27 @@ p{
   background-color: #D8DBE2;
 }
 
-
+hr.solid{
+  border-top: 2px solid #084C61;
+}
 
 
 .about img{
-  width: 50%;
+  width: 35%;
   height: auto;
   float: left;
-  
+  border-radius: 50%;
+  border: 4px solid #58a4b0;
 }
+
+
 /* .about-me{
   background-color: #D8DBE2;
   width: 700px;
   float: left;
 }
 
-hr.solid{
-  border-top: 2px solid #084C61;
-}
+
 
 .pic {
   height: 175px;
