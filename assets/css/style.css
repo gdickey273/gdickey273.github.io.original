@@ -59,6 +59,21 @@ hr.solid{
   float: left;
 } */
 
+.btn{
+  background-color: #084C61;
+}
+
+.side-bar{
+  position: fixed;
+  top: 80px;
+  right: 0px;
+  background-color: #084C61;
+}
+
+
+.side-bar a{
+  color:#d8dbe2;
+}
 
 .footer {
   position: fixed;
@@ -71,16 +86,26 @@ hr.solid{
   border-top: 4px solid #FFA630; 
 }
 
-.footer div{
-  margin: auto;
+.footer section{
+  margin-left: auto;
+  margin-right: auto;
   width: 150px;
   color: #fff !important;
-  margin-top: 15px;
-
+  font-size: small;
+  letter-spacing: 2px;
 }
 
-.footer p, i{
-  font-size: small;
+
+#copyright{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 0 !important;
+  letter-spacing: normal;
+}
+
+#copyright p, i{
+  font-size: xx-small;
 }
 
 
