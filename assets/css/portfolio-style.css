@@ -1,0 +1,16 @@
+
+.card-img{
+  height: 240px;
+  object-fit: fill;
+}
+
+.c-title{
+  background: rgba(255, 166, 48, .75);
+  width: 100%;
+  text-align: center;
+}
+
+.c-title h5{
+  padding: 2px;
+}
+
