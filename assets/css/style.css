@@ -80,12 +80,17 @@ hr.solid{
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 60px;
-  line-height: 60px;
+  height: 65px;
   background-color: #084C61;
   border-top: 4px solid #FFA630; 
+  text-align: center;
 }
 
+.footer p{
+  margin-bottom: 0;
+}
+
+/* 
 .footer section{
   margin-left: auto;
   margin-right: auto;
@@ -94,21 +99,14 @@ hr.solid{
   font-size: small;
   letter-spacing: 2px;
 }
+*/
 
-
-#copyright{
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  padding: 0 !important;
+.copyright p{
   letter-spacing: normal;
-}
+  font-size: xx-small !important;
+  color: #fff;
 
-#copyright p, i{
-  font-size: xx-small;
-  padding: 0 !important;
-  margin-bottom: 0 !important;
-}
+} 
 
 
 @media screen and (max-width: 640px){
