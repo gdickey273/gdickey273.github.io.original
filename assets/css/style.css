@@ -106,6 +106,8 @@ hr.solid{
 
 #copyright p, i{
   font-size: xx-small;
+  padding: 0 !important;
+  margin-bottom: 0 !important;
 }
 
 
