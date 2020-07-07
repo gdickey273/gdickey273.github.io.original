@@ -2,10 +2,15 @@
   color:#212529;
 }
 
-.card-img{
-  height: 240px;
-  object-fit: fill;
+.card{
+  height: 16vw;
+  width: 24vw;
+  object-fit: cover;
 }
+
+/* .card-img{
+  object-fit: cover;
+} */
 
 .c-title{
   background: rgba(255, 166, 48, .75);
