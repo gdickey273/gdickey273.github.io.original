@@ -9,3 +9,10 @@ Each page utilizes an Eric Meyer reset.css and a parent style.css stylesheet. po
 ## Responsiveness
 Each page in this site is designed to respond to a variety of viewports from a standard computer monitor to a small smartphone. 
 
+## Screenshots of pages
+
+![Index Page](https://github.com/gdickey273/gdickey273.github.io/blob/master/assets/images/screenshot-index.png)
+
+![Portfolio Page](https://github.com/gdickey273/gdickey273.github.io/blob/master/assets/images/screenshot-portfolio.png)
+
+![Contact Page](https://github.com/gdickey273/gdickey273.github.io/blob/master/assets/images/screenshot-contact.png)
