@@ -48,17 +48,6 @@ hr.solid{
   background-color: #084C61;
 }
 
-/* .side-bar{
-  position: fixed;
-  top: 80px;
-  right: 0px;
-  background-color: #084C61;
-}
-
-
-.side-bar a{
-  color:#d8dbe2;
-} */
 
 .footer {
   position: fixed;
@@ -89,12 +78,4 @@ hr.solid{
     float: none;
   }
 
-  /* .about p{
-    clear: both;
-    margin-bottom: 10vh;
-  } */
-
-  .about{
-    height: 110vh;
-  }
 }
